@@ -2,122 +2,36 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Com o **avanço das técnicas de manipulação digital**, os riscos associados ao uso de sistemas de reconhecimento facial se intensificam, principalmente em setores críticos como a **segurança bancária**.
 
-[Link to another page](./another-page.html).
+> **Deepfakes** são vídeos ou imagens gerados por inteligência artificial capazes de falsificar rostos com uma precisão impressionante – um desafio que coloca os sistemas de autenticação à prova.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Por que isso é importante?
 
-# Header 1
+- **Manipulação Digital em Evolução:**  
+  As deepfakes estão cada vez mais sofisticadas, exigindo métodos de detecção cada vez mais avançados.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- **Segurança em Primeiro Lugar:**  
+  A integridade dos sistemas de reconhecimento facial é essencial para proteger dados sensíveis, especialmente no ambiente bancário.
 
-## Header 2
+- **Impacto Real:**  
+  A crescente ameaça das deepfakes pode comprometer a confiança em tecnologias de autenticação, afetando tanto instituições quanto usuários.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+---
 
-### Header 3
+## Nossa Iniciativa
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+Este projeto tem como objetivo desenvolver **métodos avançados para a detecção de deepfakes em biometria facial**, proporcionando:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- **Maior Confiabilidade:**  
+  Fortalecendo os sistemas de autenticação com técnicas de última geração.
+  
+- **Segurança Aprimorada:**  
+  Protegendo os dados dos usuários e garantindo a integridade das transações bancárias.
 
-#### Header 4
+- **Soluções Inovadoras:**  
+  Aplicando inteligência artificial e algoritmos avançados para identificar e neutralizar deepfakes.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+A iniciativa é realizada em **parceria com o Instituto de Ciência e Tecnologia (ICTi) do Itaú**..
