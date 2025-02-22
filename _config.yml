@@ -1,5 +1,3 @@
-remote_theme: pages-themes/slate@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Desafios e Inovações em Segurança Digital]
-description: [Detecção de Deepfakes em biometria facial]
+title: "Meu Projeto"
+description: "Site informativo sobre o projeto, equipe, calendário e contato."
+theme: slate
